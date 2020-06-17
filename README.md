@@ -1,6 +1,7 @@
 # CrossModalAlignment-with-PrototypicalNets
 
 Using dataloader from learn2learn.net
+
 @misc{learn2learn2019,
     author       = {Sebastien M.R. Arnold, Praateek Mahajan, Debajyoti Datta, Ian Bunner},
     title        = {learn2learn},
